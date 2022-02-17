@@ -42,3 +42,8 @@ Use `Ctrl+C` in the terminal to stop the local server.
 ## Run backend Server 
 
 Go to backend folder and run `npm install` and `npm start`. This should run the backend server and you'll be able to use the app.
+
+## Final look
+![Capture d’écran 2022-02-17 à 12 39 39](https://user-images.githubusercontent.com/76947043/154474076-c350a5e5-e7ce-4f80-a6c2-3e80cc8f64cd.png)
+
+
